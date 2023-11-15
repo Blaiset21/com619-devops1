@@ -4,10 +4,11 @@
     
 | Team Name   | Members     | github Name  | email       | shared repo | shared project | on line app |
 | ----------- | ----------- | ------------ | ----------- | ----------- |--------------- | ----------- |
-| TBD         | Tyler Short |              |             |                |             |             |
-|             | Luke Wood   |              |             |                |             |             |
-|             | Jakub Sepiolo |              |             |                |             |             |
-|             | Steve Dawe  |              |             |                |             |             |
+|Git Guardians | Jakub Sepiolo | jakubsepiolo2001 | 5sepij35@solent.ac.uk | https://github.com/jakubsepiolo2001/COM619-AE1       |                |             |             |
+|              | Tyler Short | Tyler-Short1  |5short82@solent.ac.uk    |                |             |             |
+|              |Owen Bradstreet | owenbradstreet| 5brado63@solent.ac.uk |   |                |             |             |
+|              | Luke Wood  | lwoodremote | 5woodl59@solent.ac.uk   |                |             |             |
+|              | Steve Dawe   |  5Dawe |5dawes65@solent.ac.uk |   |                |             |             |
 |             |             |              |             |                |             |             |
 | Coordinated Chaos | Faizan Ahmed  |  FaizanAhmadSP707    | 5ahmef94@solent.ac.uk    |   [https://github.com/TomStrong/DevOpsAssessment](https://github.com/TomStrong/DevOpsAssessment)    |             |  https://coordinated-chaos.uksouth.cloudapp.azure.com |
 |             | Ali Dashti     |  ali1373107            |   4dasha45 @solent.ac.uk            |             |             |             |
@@ -15,17 +16,17 @@
 |             | Thomas Strong   | TomStrong             |  5strot78@solent.ac.uk           |                |             |             |
 |             | Joao Maria Fragoso Potes   | Joao-Potes           | 4fragi68@ssolent.ac.uk            |                |             |             |
 |             |             |              |             |                |             |
-| Drop table * |  Harry Maynard |              |               | https://github.com/jrykns/not-a-virus-map <BR><BR>  https://github.com/jrykns/not-a-virus-map/wiki | https://github.com/users/jrykns/projects/1       |   https://com619-devops.uksouth.cloudapp.azure.com           |  
-|             |  Senju Murase   |              |             |                |             |             |
-|             |  Dario Cruz  |              |             |                |             |             |
-|             |  Igor Kanchukovskyi       |              |             |                |             |             |
-|             | Hamza Mohibe |              |             |                |             |             |
+| Drop table * |  Harry Maynard | 4maynh59             |               | https://github.com/jrykns/not-a-virus-map <BR><BR>  https://github.com/jrykns/not-a-virus-map/wiki | https://github.com/users/jrykns/projects/1       |   https://com619-devops.uksouth.cloudapp.azure.com           |  
+|             |  Senju Murase   | jrykns  |  2muras86@solent.ac.uk    |                |             |             |
+|             |  Dario Cruz  | dariocruz96   |             |                |             |             |
+|             |  Igor Kanchukovskyi       | IgorGrey  |             |                |             |             |
+|             | Hamza Mohibe |  HamzaMohibe  |             |                |             |             |
 |             |             |              |             |                |             |             |
-| TBC?        | Gaetano Archer | GDoesCode     |              | https://github.com/GDoesCode/COM619DevOpsGroupWork   | https://github.com/users/GDoesCode/projects/1    |                    |
-|             | Jacob Shattock | jacob-shattock-solent  |             |                |             |             |
+| TBC?        | Gaetano Archer | GDoesCode     | 5archg31@solent.ac.uk             | https://github.com/GDoesCode/COM619DevOpsGroupWork   | https://github.com/users/GDoesCode/projects/1    |                    |
+|             | Jacob Shattock | jacob-shattock-solent  | 5shatj38@solent.ac.uk             |                |             |             |
 |             | Danial Agha | DAghaSolent       | 5aghad30@solent.ac.uk            |                |             |             |
 |             | Muhammad Sajid | AhubSajid       | 5shaim26@solent.ac.uk     |                |             |             |
-|             | Josh Clarke | JoshC98         |             |                |             |             |
+|             | Josh Clarke | JoshC98         | 5clarj31@solent.ac.uk            |                |             |             |
 |          |             |              |             |                |             |             |
 | Mongoose | Theodoros Christou  |   |        |  https://github.com/GoodH21/DevOps-Group  (not public) <br> https://github.com/GoodH21/com619-devops1                 | http://com619-mongeese.uksouth.cloudapp.azure.com:3000            |             |
 |          |Arooj Fatima |              |             |                |             |             |
@@ -39,11 +40,11 @@
 |          |  Luke Wood |  lwoodremote |  5woodl59@solent.ac.uk           |                |             |             |
 |          |  Steve Dawe |  5Dawe |  5dawes65@solent.ac.uk            |                |             |             |
 |        |             |              |             |                |             |             |
-| dev        |  Banfia Bol  | Boldizsarb     |       | https://github.com/Boldizsarb/Devops_com619      |     com619.azurewebsites.net          |             |
-|          |   Filippe Quarntain   |  fmilheir         |             |                |             |             |
+| dev        |  Banfia Bol  | Boldizsarb     | 5boldb36@solent.ac.uk      | https://github.com/Boldizsarb/Devops_com619      |     com619.azurewebsites.net          |             |
+|          |   Filippe Quarntain   |  fmilheir         |  5bastf99@solent.ac.uk           |                |             |             |
 |          | Oladapo Giwa-daramola         | oladapo01             | 5giwao61@solaent.ac.uk           |                |             |             |
 |          | Renato Silva Crdoso            |  guildb       | 5silvr53@solent.ac.uk            |                |             |             |
-|         |  Maciej Czerwonka           |   maciej           | 5czerm04@solent.ac.uk            |                |             |             |
+|         |  Maciej Czerwonka           |   MCoding90           | 5czerm04@solent.ac.uk            |                |             |             |
 |          |             |              |             |                |             |             |
 |          |             |              |             |                |             |             |
 |         |             |              |             |                |             |             |

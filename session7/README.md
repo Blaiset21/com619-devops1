@@ -28,7 +28,7 @@ There are many tutorials and code examples available and some are listed below.
 [Nginx and Let’s Encrypt with Docker in Less Than 5 Minutes](https://pentacent.medium.com/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71) [github project](https://github.com/wmnnd/nginx-certbot) (Note: replace `docker-compose` with `docker compose` if needed).
 
 ## Class example
-I have personally adoped and adapted a more complex example which allows me to run a script to generate my certificates for multiple  different back ends. 
+I have personally adopted and adapted a more complex example which allows me to run a script to generate my certificates for multiple  different back ends. 
 This is a fork of an example by [eugene-khyst](https://github.com/eugene-khyst/letsencrypt-docker-compose).
 My example includes running a jetty server instead of node.js.
 
@@ -98,20 +98,14 @@ The important change is to the spring boot configuration so that the swagger UI 
 server.forward-headers-strategy=framework
 ```
 
+## New deploy mechanisms
+In both the example projects, the pom has changed to allow cargo to pick up properties from a properties file.
 
+You need to copy `deploy.properties.template` to `deploy.properties`  and change the values to match your site.
 
-# Misc note Setting up letsencrypt
+The `mvn initialize` goal reads the properties file so when deploying use the command
 
-need to allow large uploads
-need to allow reverse proxy
-added a simple web app to deploy 
+```
+mvn initialize cargo:deploy
+```
 
-##  web site monitoring
-to do -separat discussion
-https://github.com/gallenc/opennms-integrations-play/tree/main/websitemonitoring
-
-https://hackmd.io/@agalue/HyGyD0diN  opennms letsencrypt cloud init
-
-https://medium.com/nirman-tech-blog/nginx-as-reverse-proxy-with-grpc-820d35642bff
-
-https://github.com/opennms-forge/stack-play/tree/cada4b5b39edd3f745d514aeaf4cce3f12fdef18/minimal-minion-grpc
